@@ -120,11 +120,9 @@ def __main(args):
     # check arguments
     if len(args) not in (1, 2):
         __usage()
-
     # extract path components
     input_path = args[0]
     input_base, input_ext = os.path.splitext(input_path)
-
     # operate according to the extension
     if input_ext.lower() == '.png':
         # attempt to unpack then delete the PNG
