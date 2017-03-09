@@ -35,9 +35,3 @@ Install dependencies:
 ```console
 pip install -r requirements.txt
 ```
-
-Optionally install system-wide:
-
-```console
-cp "$PWD/signal-wont-let-me-attach.py" /usr/local/bin/signal-wont-let-me-attach
-```
