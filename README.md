@@ -1,3 +1,9 @@
+**Update:** Signal [now][1] allows to send arbitrary file types!
+
+[1]: https://twitter.com/whispersystems/status/859125874901135360
+
+---
+
 signal-wont-let-me-attach
 =========================
 
